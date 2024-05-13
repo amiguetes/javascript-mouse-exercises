@@ -1,0 +1,6 @@
+#cuadro,.cuadro {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: blueviolet;
+}
