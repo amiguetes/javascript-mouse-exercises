@@ -1,0 +1,36 @@
+#cuadro,.cuadro,.color1,.color2,.color3 {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+}
+
+html {
+    height: 100%;
+}
+
+#lienzo,body {
+    height: 100%;
+}
+
+#lienzo {
+    border: dashed red;
+}
+
+
+.color {
+    width: 20px;
+    height: 20px;
+    margin: 2px;
+}
+
+#color1,.color1 {
+    background-color: aquamarine;
+}
+
+#color2,.color2 {
+    background-color: deeppink;
+}
+
+#color3,.color3 {
+    background-color: dodgerblue;
+}
